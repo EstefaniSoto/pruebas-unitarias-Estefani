@@ -1,0 +1,16 @@
+{
+  "name": "pruebas-unitarias-electiva-2",
+  "version": "1.0.0",
+  "description": "Prueba unitaria con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Estefani",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
