@@ -1,5 +1,5 @@
 const add = () => {
-    return "dinero" + 20;
+    return 10 + 20;
   };
   
   module.exports = add;
